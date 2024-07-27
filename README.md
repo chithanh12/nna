@@ -135,20 +135,30 @@ Vài tuần trước chính phủ Mỹ đã phải đóng cửa và nếu như M
 
 #### Task 8
 ```
-A new report says the number of young people without a job is still very high in many countries.There are currently 73 million people around the world, aged 15 to 24, who want to work but cannot find a job. The International Labour Organization, ILO, said that although youth unemployment is coming down in rich countries, it is rising in most of Asia, the Middle East, North Africa and Brazil. The youth unemployment rate in China increased from 9.3% in 2010 to 10.6% last year. Economists say it will be 11.1% in 2016.The ILO warns that youth unemployment worldwide is set to rise.
+A new report says the number of young people without a job is still very high in many countries.
+There are currently 73 million people around the world, aged 15 to 24, who want to work but cannot find a job.
+The International Labour Organization, ILO, said that although youth unemployment is coming down in rich countries, it is rising in most of Asia, the Middle East, North Africa and Brazil.
+The youth unemployment rate in China increased from 9.3% in 2010 to 10.6% last year.
+Economists say it will be 11.1% in 2016.The ILO warns that youth unemployment worldwide is set to rise.
 ```
 
 #### Task 9
 ```
 Petrochina is the world's largest company. Petrochina has become the first company to  
-be worth more than $1 trillion. The value of the Chinese oil company is double that of ExxonMobil, the American oil company. Shares in Petrochina were traded for the first time on the Shanghai Stock Exchange on Monday.
+be worth more than $1 trillion.
+The value of the Chinese oil company is double that of ExxonMobil, the American oil company.
+Shares in Petrochina were traded for the first time on the Shanghai Stock Exchange on Monday.
 ```
 
 #### Task 10
 ```
-Earth has lost half its trees because of humans. There is good and bad news about trees on our planet.The good news is that there are seven times more than we thought. Scientists estimated that the world had 400 billion trees. A new study says we have 3 trillion trees.  
+Earth has lost half its trees because of humans. There is good and bad news about trees on our planet.
+The good news is that there are seven times more than we thought.
+Scientists estimated that the world had 400 billion trees.
+A new study says we have 3 trillion trees.  
 That's a 3 followed by 12 zeros. There are over 420 trees for every person alive today.  
-A researcher said it's not good news for the world or bad news that we've produced this new number. The bad news is that the Earth once had 6 trillion trees. Humans have cut that number in half. Europe used to be a giant forest. Now much of it is fields and cities. We are responsible for the loss of 3 trillion trees. Another 15 billion trees are lost each year. Scientists said this number is a lot higher than 100 years ago. The researcher warned that we must try harder to bring back healthy forests worldwide.
+A researcher said it's not good news for the world or bad news that we've produced this new number.
+The bad news is that the Earth once had 6 trillion trees. Humans have cut that number in half. Europe used to be a giant forest. Now much of it is fields and cities. We are responsible for the loss of 3 trillion trees. Another 15 billion trees are lost each year. Scientists said this number is a lot higher than 100 years ago. The researcher warned that we must try harder to bring back healthy forests worldwide.
 ```
 
 #### Task 11 
