@@ -1,7 +1,7 @@
 ## Unit 1 
 #### Task 9
 
-<code>
+```
 No 1:
 In the United States, Stocks have been falling since April
  on concerns about the recovery.
@@ -10,7 +10,8 @@ consumer confidence after three months of gains.
 New jobless claims rose in the latest government report.
 Still, employment expert John Challenger says his findings suggest
 that the nation's employers are not expecting a double dip recession.
-He points to a big drop in the number of plan job cuts announced by employers over the past six months.
+He points to a big drop in the number of plan job cuts announced by
+ employers over the past six months.
 
 No 2.
 30 years ago, women earned $0.62 for every dollar that men earned.
@@ -25,11 +26,13 @@ No 3.
 A corporation is themost complex kind of business organization.
 Corporations can sell stock as a way to raise money.
 Stock represents shares of ownership in a company.
-Investors who buy stock can trade their shares or keep them as long as the company is in business.
-A company might use some of its earnings to pay dividends as a reward to shareholders, or the company might reinvest the money back into the business.
+Investors who buy stock can trade their shares or
+ keep them as long as the company is in business.
+A company might use some of its earnings to pay dividends
+as a reward to shareholders, or the company might reinvest the money back into the business.
 If shares lose value, investors can lose all of the money they paid to for their stock.
 But shareholders are not responsible forthe debts of the corporation.
-</code>
+```
 
 #### Task 10
 ```
@@ -72,24 +75,35 @@ But shareholders are not responsible forthe debts of the corporation.
 
 #### Task 3 - Track 4
 ```
-1. Last week I went to a really interesting lecture on space, but I didn't understand that much of it because I hadn't prepared enough.
+1. Last week I went to a really interesting lecture on space,
+but I didn't understand that much of it because I hadn't prepared enough.
 
-2. One of the most important aspects of university study, which is totally different from school, is being able to manage the workload.
+2. One of the most important aspects of university study,
+ which is totally different from school, is being able to manage the workload.
 
-3. What I don't like about studying biology is having to write up the lab reports after doing the experiments.
+3. What I don't like about studying biology is
+having to write up the lab reports after doing the experiments.
 
-4. So, if you look at this slide, you'll notice how the concepts of philosophy as described by the enlightenment interact with our everyday lives, even in the 21st century.
+4. So, if you look at this slide, you'll notice
+how the concepts of philosophy as described by the
+enlightenment interact with our everyday lives, even in the 21st century.
 ```
 
 #### Task 4
 ```
-Student: I see that a comprehensive exam is required for my major, and I'm not exactly sure what a comprehensive exam is.
-Prof: A comprehensive exam is an exam that you take in the final quarter of your studies.
+Student: I see that a comprehensive exam is
+required for my major, and I'm not exactly sure what a comprehensive exam is.
+Prof: A comprehensive exam is an exam that
+ you take in the final quarter of your studies.
 Its purpose is to determine your overall competency.
 Student: How is this comprehensive exam different from a final exam?
-Prof: A final exam covers all the material taught in a specific course. A comprehensive exam, on the other hand, covers all of the materials taught in the entire program.
+Prof: A final exam covers all the material taught
+ in a specific course. A comprehensive exam,
+on the other hand, covers all of the materials taught in the entire program.
 Student: And it's true that the comprehensive exam is required for my major?
-Prof: It's not an option? No, it's not an option. A comprehensive exam isn't required for all majors at this university, but it is required for your major. Sorry, it's not optional.
+Prof: It's not an option? No, it's not an option.
+A comprehensive exam isn't required for all majors at this university,
+ but it is required for your major. Sorry, it's not optional.
 ```
 
 #### Task 5
@@ -136,43 +150,93 @@ Prof: It's not an option? No, it's not an option. A comprehensive exam isn't req
 
 #### Task 7
 ```
-Vài tuần trước chính phủ Mỹ đã phải đóng cửa và nếu như Mỹ không quyết định nâng trần nợ công vào ngày 17 tháng 10 tất cả chúng ta sẽ rơi vào trạng thái suy thoái toàn cầu. Về cơ bản nếu quốc hội không nâng mức nợ trần vào ngày 17 tháng 10 thì chính phủ Mỹ sớm muộn sẽ rơi vào cảnh cạn kiệt ngân sách. Nếu điều đó xẩy ra không ai biết chính xác điều gì sẽ diễn ra vì chưa hề có tiền lệ, nhưng chắc hẳn không phải là điều tốt: đóng băng thị trường tín dụng, đồng đô la rớt giá thê thảm lãi suất thì tăng vọt, suy thoái kinh tế, khủng hoảng tài chính toàn cầu, mọi người hoảng loạn.
+Vài tuần trước chính phủ Mỹ đã phải đóng cửa và
+nếu như Mỹ không quyết định nâng trần nợ công vào
+ ngày 17 tháng 10 tất cả chúng ta sẽ rơi vào
+trạng thái suy thoái toàn cầu. Về cơ bản nếu quốc hội
+không nâng mức nợ trần vào ngày 17 tháng 10 thì
+chính phủ Mỹ sớm muộn sẽ rơi vào cảnh cạn kiệt ngân sách.
+ Nếu điều đó xẩy ra không ai biết chính xác điều gì
+sẽ diễn ra vì chưa hề có tiền lệ, nhưng chắc hẳn
+không phải là điều tốt: đóng băng thị trường tín dụng,
+đồng đô la rớt giá thê thảm lãi suất thì tăng vọt,
+ suy thoái kinh tế, khủng hoảng tài chính toàn cầu,
+mọi người hoảng loạn.
 ```
 
 #### Task 8
 ```
-A new report says the number of young people without a job is still very high in many countries.
-There are currently 73 million people around the world, aged 15 to 24, who want to work but cannot find a job.
-The International Labour Organization, ILO, said that although youth unemployment is coming down in rich countries, it is rising in most of Asia, the Middle East, North Africa and Brazil.
-The youth unemployment rate in China increased from 9.3% in 2010 to 10.6% last year.
-Economists say it will be 11.1% in 2016.The ILO warns that youth unemployment worldwide is set to rise.
+A new report says the number of young people
+without a job is still very high in many countries.
+There are currently 73 million people around
+the world, aged 15 to 24, who want to work but cannot find a job.
+The International Labour Organization, ILO,
+said that although youth unemployment is
+coming down in rich countries, it is rising
+in most of Asia, the Middle East, North Africa and Brazil.
+The youth unemployment rate in China
+increased from 9.3% in 2010 to 10.6% last year.
+Economists say it will be 11.1% in 2016.
+The ILO warns that youth unemployment worldwide is set to rise.
 ```
 
 #### Task 9
 ```
-Petrochina is the world's largest company. Petrochina has become the first company to  
+Petrochina is the world's largest company.
+ Petrochina has become the first company to  
 be worth more than $1 trillion.
-The value of the Chinese oil company is double that of ExxonMobil, the American oil company.
-Shares in Petrochina were traded for the first time on the Shanghai Stock Exchange on Monday.
+The value of the Chinese oil company
+is double that of ExxonMobil, the American oil company.
+Shares in Petrochina were traded for the
+first time on the Shanghai Stock Exchange on Monday.
 ```
 
 #### Task 10
 ```
-Earth has lost half its trees because of humans. There is good and bad news about trees on our planet.
-The good news is that there are seven times more than we thought.
+Earth has lost half its trees because of humans.
+There is good and bad news about trees on our planet.
+The good news is that there are
+seven times more than we thought.
 Scientists estimated that the world had 400 billion trees.
 A new study says we have 3 trillion trees.  
-That's a 3 followed by 12 zeros. There are over 420 trees for every person alive today.  
-A researcher said it's not good news for the world or bad news that we've produced this new number.
-The bad news is that the Earth once had 6 trillion trees. Humans have cut that number in half. Europe used to be a giant forest. Now much of it is fields and cities. We are responsible for the loss of 3 trillion trees. Another 15 billion trees are lost each year. Scientists said this number is a lot higher than 100 years ago. The researcher warned that we must try harder to bring back healthy forests worldwide.
+That's a 3 followed by 12 zeros.
+There are over 420 trees for every person alive today.  
+A researcher said it's not good news
+ for the world or bad news that
+ we've produced this new number.
+The bad news is that the Earth
+once had 6 trillion trees.
+Humans have cut that number in half.
+ Europe used to be a giant forest.
+Now much of it is fields and cities.
+We are responsible for the loss of 3 trillion trees.
+Another 15 billion trees are lost each year.
+Scientists said this number is a lot
+higher than 100 years ago.
+The researcher warned that we must
+try harder to bring back healthy forests worldwide.
 ```
 
 #### Task 11 
 ```
-For many homeowners, refinancing their home mortgages can provide numerous financial benefits over the long run. For one, you can lower your monthly mortgage payments by taking advantage of lower interest rates. This amount can be significant depending on the market rates.  
-Second, reducing your mortgage can provide you with additional funds to finance other  
-home improvements, like repairing that leaky roof, adding a garage, or building an addition  
-onto your home. Furthermore, by refinancing, you can greatly reduce the length of your loan. After several years into your mortgage, people often earn more money than when they first purchased their home, and thus have a surplus to pay off loans quicker. Whatever you do, be sure to gather all the facts about refinancing to make the best informed decision that will meet your current and future needs.
+For many homeowners, refinancing their home mortgages
+can provide numerous financial benefits over the long run.
+For one, you can lower your monthly mortgage
+payments by taking advantage of lower interest rates.
+This amount can be significant depending on the market rates.  
+Second, reducing your mortgage can provide
+you with additional funds to finance other  
+home improvements, like repairing that leaky roof,
+adding a garage, or building an addition  
+onto your home. Furthermore, by refinancing,
+you can greatly reduce the length of your loan.
+After several years into your mortgage,
+ people often earn more money than
+when they first purchased their home,
+and thus have a surplus to pay off loans quicker.
+Whatever you do, be sure to gather all the facts
+about refinancing to make the best informed decision
+that will meet your current and future needs.
 ```
 
 #### Task 12
@@ -196,82 +260,196 @@ Thứ Sáu chọn bạn đồng hành không phù hợp. Chắc chắn bạn đ�
 ```
 I'd like to talk about three basic investment options. 
 
-First, you can buy shares. You then become a shareholder, that is, part owner of a company. When the company makes a profit, the shareholders get a share of that profit. This payment is called a dividend. The price of shares can go up or down, so there is no guarantee you can make a profit when you sell your shares. However, share prices can rise a lot, so you can make a lot of money. 
+First, you can buy shares. You then become a shareholder,
+ that is, part owner of a company. When the company
+ makes a profit, the shareholders get a share of that profit.
+This payment is called a dividend.
+The price of shares can go up or down,
+so there is no guarantee you can make a profit
+ when you sell your shares. However,
+share prices can rise a lot, so you can make a lot of money. 
 
-Bonds are another type of investment. When you buy a bond, you are lending your money to a company, or sometimes to a government. In return, they agree to pay you a fixed rate of interest on your money. In addition, you get your capital back on a certain date in the future. This is called the date when the bond matures. There is little risk here, but the returns are quite low. 
+Bonds are another type of investment.
+When you buy a bond, you are lending your
+money to a company, or sometimes to a government.
+ In return, they agree to pay you a fixed rate
+ of interest on your money. In addition,
+you get your capital back on a certain date
+in the future. This is called the date when the bond matures.
+ There is little risk here, but the returns are quite low. 
 
-Finally, you can invest in a mutual fund. This is a collection of shares and bonds. You put your money together with money from other investors. It is sometimes called an open-end fund, because new investors can join the fund at any time. You pay a financial professional, a fund manager, to handle your investment. The fund manager decides what shares and bonds to buy and sell. There isn't a predictable rate of return. Your earnings change from day to day. 
+Finally, you can invest in a mutual fund.
+This is a collection of shares and bonds.
+You put your money together with money from other investors.
+It is sometimes called an open-end fund,
+ because new investors can join the fund at any time.
+ You pay a financial professional, a fund manager,
+ to handle your investment. The fund manager decides
+ what shares and bonds to buy and sell. There isn't a predictable
+ rate of return. Your earnings change from day to day. 
 ```
 
 #### Task 14 - It kha nang ra thi
 ```
-Russia's President Vladimir Putin has warned Turkey that it would pay for the downing of  
-one of its warplanes on Tuesday. This comes after two Turkish F-16 fighter jets shot down a Russian Su-24, saying the Russian jet was flying over Turkish airspace. Moscow denies this and said its plane was over Syrian airspace. Turkey has warned Russia several times before after Russian planes flew over Turkish territory. Turkey said its fighter pilots warned the Russian pilots 10 times before they fired missiles at them.
+Russia's President Vladimir Putin has warned
+Turkey that it would pay for the downing of  
+one of its warplanes on Tuesday.
+ This comes after two Turkish F-16 fighter
+jets shot down a Russian Su-24, saying the Russian
+jet was flying over Turkish airspace.
+Moscow denies this and said its plane was over Syrian airspace.
+Turkey has warned Russia several times
+before after Russian planes flew over Turkish territory.
+Turkey said its fighter pilots warned the
+Russian pilots 10 times before they fired missiles at them.
 
-However, the Russian pilot who survived the shooting said he received no warnings at all and that he was not flying over Turkish airspace. Russia said the shooting was planned beforehand.President Putin has advised all Russians to avoid going to Turkey. He has also said Russia would cut many economic ties with Turkey. Several major Russian holiday firms have removed packages to Turkey. This could hurt Turkey as 4.4 million Russians go there on vacation each year. Russian Prime Minister Dmitry Medvedev said a number of big joint projects between the two countries would be stopped. In addition, Turkish companies with strong trading ties to Russia will also face more difficult trading conditions.  
-Turkey imports almost all of its energy from Russia, including 60% of its gas and 35% of its oil. Russia is also due to build Turkey's first nuclear power station, which is a $20 billion project.This is Cynthia Hitz reporting from Pennsylvania in the United States.
+However, the Russian pilot who survived
+the shooting said he received no warnings
+at all and that he was not flying over Turkish airspace.
+Russia said the shooting was planned beforehand.
+President Putin has advised all Russians to
+ avoid going to Turkey. He has also said Russia
+would cut many economic ties with Turkey.
+Several major Russian holiday firms have
+removed packages to Turkey.
+This could hurt Turkey as 4.4 million Russians
+ go there on vacation each year.
+Russian Prime Minister Dmitry Medvedev
+said a number of big joint projects between
+the two countries would be stopped. In addition,
+Turkish companies with strong trading ties
+to Russia will also face more difficult trading conditions.  
+Turkey imports almost all of its energy
+from Russia, including 60% of its gas and 35%
+of its oil. Russia is also due to build
+Turkey's first nuclear power station,
+which is a $20 billion project.
+This is Cynthia Hitz reporting from Pennsylvania in the United States.
 ```
 
 #### Task 15  - (It kha nang ra thi)
 ```
-Hello, passengers of Flight 17 bound for Caracas. With stops in Atlanta and Miami, the departure gate has been changed to 30B. Also, there will be a slight departure delay due to inclement weather outside. The ground crew is in the process of de-icing the wings in preparation for departure. It also looks like the flight is slightly overbooked, so we are offering complimentary round-trip tickets to a few passengers who are willing to take a later flight. We should be boarding about a quarter to the hour. Thank you for your patience.  
+Hello, passengers of Flight 17 bound for Caracas.
+With stops in Atlanta and Miami, the departure
+gate has been changed to 30B. Also,
+there will be a slight departure delay due to
+inclement weather outside. The ground crew is
+in the process of de-icing the wings in preparation
+ for departure. It also looks like the flight
+is slightly overbooked, so we are offering
+complimentary round-trip tickets to a few
+passengers who are willing to take a later flight.
+We should be boarding about a quarter to the hour.
+Thank you for your patience.  
 ```
 
 #### Task 16 (Co kha nang ra thi)
 ```
 Basically, we are split into six line divisions. 
-The first of these, the banking division, consists of three geographic groups.  
+The first of these, the banking division,
+consists of three geographic groups.  
 
 Group 1, the Americas, Group 2, Europe, and Group 3, Africa, Asia, and the Middle East.  
 All these groups offer a range of international banking services.  
 
-Second, there's the private banking division, which serves consumers in the domestic and international markets.  
+Second, there's the private banking division,
+which serves consumers in the domestic and international markets.  
 
-Third, the treasurer's division has a wide spread of operations which includes investment portfolio management, commercial paper, government, and municipal bonds, foreign exchange, bullion, and public finance.  
+Third, the treasurer's division has a
+ wide spread of operations which includes
+investment portfolio management, commercial paper,
+ government, and municipal bonds, foreign exchange, bullion, and public finance.  
 
-Fourth, there's the administrative division, which covers administrative services as well as personnel, premises, and economic analysis.  
+Fourth, there's the administrative division,
+ which covers administrative services as well as
+ personnel, premises, and economic analysis.  
 
-Fifth, the financial and information systems divisions includes the comptroller's department, the corporate tax department, and the systems and data processing department.  
+Fifth, the financial and information
+ systems divisions includes the comptroller's
+department, the corporate tax department, and the
+ systems and data processing department.  
 
-And then finally, the corporate planning division includes strategic planning and credit policy and administration.
+And then finally, the corporate planning
+division includes strategic planning and
+credit policy and administration.
 ```
 
 #### Task 17 - Co kha nang ra thi
 ```
-1. Chúng tôi đã nhận được của họ một đơn đặt hàng vào ngày 8 tháng 3 nhưng đành từ chối vì họ đặt hàng quá đột ngột.
-2. Các ngân hàng nhận tiền gửi từ những người có tiền để dành. 
-3. Mọi việc xem ra đã rõ rành rành có tranh luận tiếp cũng không còn ý nghĩa gì.
+1. Chúng tôi đã nhận được của họ một đơn đặt
+hàng vào ngày 8 tháng 3 nhưng đành từ
+chối vì họ đặt hàng quá đột ngột.
+2. Các ngân hàng nhận tiền gửi
+từ những người có tiền để dành. 
+3. Mọi việc xem ra đã rõ rành rành
+có tranh luận tiếp cũng không còn ý nghĩa gì.
 4. Tỷ giá của bảng Anh hôm nay là bao nhiêu
-5. Chúng tôi muốn xử lý yêu cầu bồi thường này bằng hòa giải.
-6. Nói về chất lượng thì hiện không có sản phẩm nào sánh được với chúng tôi
+5. Chúng tôi muốn xử lý yêu
+cầu bồi thường này bằng hòa giải.
+6. Nói về chất lượng thì hiện không
+có sản phẩm nào sánh được với chúng tôi
 7. Chữ ký của anh phải giống với chữ ký mẫu
-8. Số tiền đó đã được ghi vào bên có trong tài khoản của chị
+8. Số tiền đó đã được ghi vào bên
+có trong tài khoản của chị
 9. Kinh doanh chứng khoán là nghề của ông ấy
 10. Chúng tôi định đặt một lô hàng lớn ở chỗ các ông
 ```
 
 #### Task 18 - Co kha nang ra thi
 ```
-1. Consumer spending is 70% of the economic activity in the United States.
-2. But consumer confidence, a measure of trust in the economy fell unexpectedly this month.
+1. Consumer spending is 70% of the economic
+activity in the United States.
+2. But consumer confidence, a measure of
+trust in the economy fell unexpectedly this month.
 3. Jobs have continued to disappear though at slower rates.
-4. Record numbers of Americans are in danger of losing their homes and the days of easy credit are gone.
-5. The Treasury Department says lending failed for a fifth month at banks that received government aid.
-6. Still, some economists say other signs in the economy show that the recession is over already or will be soon.
+4. Record numbers of Americans are in
+danger of losing their homes and
+the days of easy credit are gone.
+5. The Treasury Department says lending
+failed for a fifth month at banks
+that received government aid.
+6. Still, some economists say other signs
+in the economy show that the recession is over already or will be soon.
 7. Then the question is how fast or how slow will the recovery be. 
 ```
 
 #### Task 19 - Co kha nang ra thi
 ```
-On Wednesday, President Obama proposed major changes to rebuild government supervision of the financial industry. The current economic downturn grew out of a culture of irresponsible lending and borrowing and a failure of the entire system, he said.  
-He says a new system is needed to meet the speed and complexity of a 21st century global  
-economy. One goal is to increase supervision of big companies whose failure could threaten the financial system. The Federal Reserve would gain new powers. The idea is to identify troubled companies early.
+On Wednesday, President Obama proposed major changes
+to rebuild government supervision of the financial industry.
+The current economic downturn grew out of
+a culture of irresponsible lending and
+ borrowing and a failure of the entire system, he said.  
+He says a new system is needed to meet
+the speed and complexity of a 21st century global  
+economy. One goal is to increase supervision
+of big companies whose failure could threaten
+the financial system. The Federal Reserve
+would gain new powers. The idea is to identify
+troubled companies early.
 ```
 
 #### Task 20 
 ```
-Two recent economic reports warn that although the world economy is growing, complicating issues like lower oil prices and conflict could hurt progress. The International Monetary Fund, or IMF, has reduced its prediction for world economic growth from 3.8 to 3.5 percent.  
-That is still an improvement over 2014. But the international lender says some major economies are facing economic struggles. The price of oil is about half of what it was last June. The IMF's chief economist, Olivier Blanchard, says lower oil prices have helped many major economies, but investment has dropped in oil-exporting countries. U.N. economists predict growth this year will be 3.1 percent. They point out that crises like the Ebola outbreak in West Africa and conflict in Ukraine could hurt a world economy, showing signs of improvement. 
+Two recent economic reports warn that although
+the world economy is growing, complicating issues
+like lower oil prices and conflict could hurt progress.
+The International Monetary Fund, or IMF,
+has reduced its prediction for world
+economic growth from 3.8 to 3.5 percent.  
+That is still an improvement over 2014.
+ But the international lender says some major
+economies are facing economic struggles.
+The price of oil is about half of what
+ it was last June. The IMF's chief economist,
+Olivier Blanchard, says lower oil prices
+have helped many major economies,
+ but investment has dropped in oil-exporting
+countries. U.N. economists predict growth
+this year will be 3.1 percent. They point out
+that crises like the Ebola outbreak in
+West Africa and conflict in Ukraine could
+ hurt a world economy, showing signs of improvement. 
 ```
 
 #### Task 21 
@@ -296,7 +474,22 @@ Things that people buy every day.
 
 #### Task 22
 ```
-Việt nam và liên hiệp châu Âuu sẽ có hai năm để chuẩn bị trước khi hiệp định thương mại tự do đạt được từ đầu tháng này có hiệu lực. Hiệp định thương mại tự do Việt nam & EU gọi tắt là FTA được kí kết tại Bussel hôm 22 tháng 12 sau 14 vòng thương thuyết kéo dài gần 3 năm. Một khi được thi hành, hiệp định này sẽ tháo gỡ hầu hết các thuế quan đối với các hàng hóa nhập khẩu giữa Việt nam và các nước ở EU. Phát biểu tại Hà Nội đại sứ liên hiệp châu Âu tại Việt Nam, Buno Uncele nói rằng mong muốn của khối EU là trở thành đối tác quan trọng trong sự phát triển bền vững của Việt Nam. Trong năm nay liên hiệp châu Âu đã trở thành nhà đầu tư nước ngoài lớn thứ 3 tại Việt Nam, so với vị trí thứ 6 trong năm 2014.
+Việt nam và liên hiệp châu Âuu sẽ có hai năm
+ để chuẩn bị trước khi hiệp định thương mại
+tự do đạt được từ đầu tháng này có hiệu lực.
+Hiệp định thương mại tự do Việt nam & EU gọi
+ tắt là FTA được kí kết tại Bussel hôm 22
+tháng 12 sau 14 vòng thương thuyết kéo dài
+gần 3 năm. Một khi được thi hành, hiệp định này
+ sẽ tháo gỡ hầu hết các thuế quan đối với các
+hàng hóa nhập khẩu giữa Việt nam và các nước ở EU.
+Phát biểu tại Hà Nội đại sứ liên hiệp
+châu Âu tại Việt Nam, Buno Uncele nói rằng
+mong muốn của khối EU là trở thành đối
+tác quan trọng trong sự phát triển bền
+vững của Việt Nam. Trong năm nay liên hiệp
+châu Âu đã trở thành nhà đầu tư nước ngoài
+lớn thứ 3 tại Việt Nam, so với vị trí thứ 6 trong năm 2014.
 ```
 
 #### Task 23
@@ -342,7 +535,23 @@ Can you think your way to wealth and success? Napoleon Hill believed that if you
 ```
 #### Task 3
 ```
-Những bước tiến trong công nghệ kỹ thuật số đã mở đường cho nhiều xu hướng mới trong vài năm qua. Ngành công nghiệp thanh toán cũng đang bắt kịp với thời đại. Thanh toán Điện tử gồm nhiều hình thức như qua thẻ, internet điện thoại di động trong đó thanh toán trên điện thoại di động là hình thức khá phổ biến ở các nước đang phát triển. Đây cũng là xu hướng đang hình thành tại Việt Nam. POS là dịch vụ được một số ngân hàng, hãng thanh toán triển khai khá phổ biến trong vài năm gần đây được gắn trực tiếp vào điện thoại máy tính bảng. Ưu điểm lớn nhất của thiết bị chấp nhận thẻ này là tính cơ động, chi phí đầu tư rẻ hơn nhiều so với thiết bị cố định truyền thống.
+Những bước tiến trong công nghệ kỹ thuật
+số đã mở đường cho nhiều xu hướng mới trong
+vài năm qua. Ngành công nghiệp thanh toán
+cũng đang bắt kịp với thời đại.
+Thanh toán Điện tử gồm nhiều hình
+thức như qua thẻ, internet điện thoại di
+ động trong đó thanh toán trên điện thoại
+di động là hình thức khá phổ biến ở
+các nước đang phát triển. Đây cũng là
+ xu hướng đang hình thành tại Việt Nam.
+POS là dịch vụ được một số ngân hàng,
+hãng thanh toán triển khai khá phổ biến
+trong vài năm gần đây được gắn trực tiếp
+vào điện thoại máy tính bảng. Ưu điểm lớn
+ nhất của thiết bị chấp nhận thẻ này là
+tính cơ động, chi phí đầu tư rẻ hơn
+nhiều so với thiết bị cố định truyền thống.
 ```
 
 #### Task 4
