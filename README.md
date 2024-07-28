@@ -1,19 +1,25 @@
 ## Unit 1 
 #### Task 9
 
-```
+<code>
 No 1:
-In the United States, Stocks have been falling since April on concerns about the recovery.
-This week, a business research group reported a drop in consumer confidence after three months of gains.
+In the United States, Stocks have been falling since April
+ on concerns about the recovery.
+This week, a business research group reported a drop in
+consumer confidence after three months of gains.
 New jobless claims rose in the latest government report.
-Still, employment expert John Challenger says his findings suggest that the nation's employers are not expecting a double dip recession.
+Still, employment expert John Challenger says his findings suggest
+that the nation's employers are not expecting a double dip recession.
 He points to a big drop in the number of plan job cuts announced by employers over the past six months.
 
 No 2.
 30 years ago, women earned $0.62 for every dollar that men earned.
-Now, for those who usually work full time, women earn about 80% of what men earn and women hold 51% of good paying management and professional jobs.
-Yet a study released Thursday said men still hold about nine out of every ten top positions at the 400 largest companies in California.
-The results have remained largely unchanged in five years of studies from the University of California, Davis.
+Now, for those who usually work full time, women earn about 80% of
+what men earn and women hold 51% of good paying management and professional jobs.
+Yet a study released Thursday said men still hold about nine out
+ of every ten top positions at the 400 largest companies in California.
+The results have remained largely unchanged in five years
+ of studies from the University of California, Davis.
 
 No 3. 
 A corporation is themost complex kind of business organization.
@@ -23,7 +29,7 @@ Investors who buy stock can trade their shares or keep them as long as the compa
 A company might use some of its earnings to pay dividends as a reward to shareholders, or the company might reinvest the money back into the business.
 If shares lose value, investors can lose all of the money they paid to for their stock.
 But shareholders are not responsible forthe debts of the corporation.
-```
+</code>
 
 #### Task 10
 ```
